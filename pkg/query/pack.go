@@ -64,7 +64,8 @@ func RenderPack(pack *Pack, c *RenderConfig) ([]byte, error) {
 	out = bytes.ReplaceAll(out, []byte(`\u003e`), []byte(">"))
 	out = bytes.ReplaceAll(out, []byte(`\u003c`), []byte("<"))
 	out = bytes.ReplaceAll(out, []byte(`\u0026`), []byte("&"))
-	return bytes.ReplaceAll(out, []byte(`\n`), []byte(" \\\n    ")), nil
+	return out, nil
+
 }
 
 // LoadPack loads and parses an osquery pack file.
