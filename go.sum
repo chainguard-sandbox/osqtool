@@ -1,10 +1,10 @@
-github.com/fatih/semgroup v1.2.0 h1:h/OLXwEM+3NNyAdZEpMiH1OzfplU09i2qXPVThGZvyg=
-github.com/fatih/semgroup v1.2.0/go.mod h1:1KAD4iIYfXjE4U13B48VM4z9QUwV5Tt8O4rS879kgm8=
+github.com/fatih/semgroup v1.3.0 h1:pTEnmcEze/BUf4UmVn9f1ZT1OckkBTNRV9w9k/I2/y4=
+github.com/fatih/semgroup v1.3.0/go.mod h1:thVp+PGZMO9KJ+k96oNGJo06hWgsKOWxTfYfx5R2VaE=
 github.com/go-logr/logr v1.2.0 h1:QK40JKJyMdUDz+h+xvCsru/bJhvG0UxvePV0ufL/AcE=
 github.com/go-logr/logr v1.2.0/go.mod h1:jdQByPbusPIv2/zmleS9BjJVeZ6kBagPoEUsqbVz/1A=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
-golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+golang.org/x/sync v0.8.0 h1:3NFvSEYkUoMifnESzZl15y791HH1qU2xm6eCJU5ZPXQ=
+golang.org/x/sync v0.8.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
 k8s.io/klog/v2 v2.90.0 h1:VkTxIV/FjRXn1fgNNcKGM8cfmL1Z33ZjXRTVxKCoF5M=
 k8s.io/klog/v2 v2.90.0/go.mod h1:y1WjHnz7Dj687irZUWR/WLkLc5N1YHtjLdmgWjndZn0=
